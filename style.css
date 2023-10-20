@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+img {
+    height: 500px;
+    width: 460px;
+}
+
+body {
+    background-image: url(https://imgix.ranker.com/list_img_v2/18020/2378020/original/2378020-u1?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720);
+}
+
+h1 {
+    color: skyblue;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 5px;
+    border: 10px
+}
